@@ -1,0 +1,6 @@
+{
+  "files.autoSave": "afterDelay",
+  "editor.wordWrap": "on",
+  "markdown.preview.breaks": true,
+  "git.confirmSync": false
+}
