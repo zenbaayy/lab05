@@ -1,0 +1,12 @@
+id,requirement,type,source_quote
+R1,Students can log in with their university email,Functional,let students log in with their university email
+R2,The system is fast,Non-Functional,It should be fast
+R3,The system is secure,Non-Functional,and secure
+R4,Students can register for events,Functional,Students register for events
+R5,Students receive a reminder before each event,Functional,get a reminder before each event
+R6,Admins can add events,Functional,Admins can add
+R7,Admins can remove events,Functional,or remove events
+R8,Login is quick (duplicate of R2),Non-Functional,Login must also be quick
+R9,The system handles many users,Non-Functional,The system should handle many users
+U1,The system should support multiple languages,Non-Functional,UNSOURCED
+U2,The system should be available as a mobile app on iOS and Android,Non-Functional,UNSOURCED

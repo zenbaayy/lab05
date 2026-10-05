@@ -1,0 +1,10 @@
+1. Students can log in with their university email.
+2. The system should be fast.
+3. The system should be secure.
+4. Students can register for events.
+5. Students get a reminder before each event.
+6. Admins can add events.
+7. Admins can remove events.
+8. Login should be quick.
+9. The system should handle many users.
+10. The system should support multiple languages.

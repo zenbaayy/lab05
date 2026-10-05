@@ -1,0 +1,11 @@
+1. The system shall let students log in with their university email.
+2. The system shall be fast.
+3. The system shall be secure.
+4. The system shall let students register for events.
+5. The system shall send students a reminder before each event.
+6. The system shall let admins add events.
+7. The system shall let admins remove events.
+8. The system shall make login quick.
+9. The system shall handle many users.
+10. The system shall support multiple languages.
+11. The system shall be accessible on mobile devices.

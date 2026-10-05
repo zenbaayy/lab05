@@ -1,0 +1,6 @@
+We need the app to let students log in with their university email.
+It should be fast and secure.
+Students register for events and get a reminder before each event.
+Admins can add or remove events.
+Login must also be quick.
+The system should handle many users.

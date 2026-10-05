@@ -1,0 +1,34 @@
+=== diff: run 1 vs run 2 (lines unique to each run) ===
+1,6c1
+< Admins can add events.
+< Admins can remove events.
+< Login should be quick.
+< Students can log in with their university email.
+< Students can register for events.
+< Students get a reminder before each event.
+---
+> be accessible on mobile devices.
+9a5,10
+> let admins add events.
+> let admins remove events.
+> let students log in with their university email.
+> let students register for events.
+> make login quick.
+> send students a reminder before each event.
+
+=== invention present in BOTH runs? ===
+run1_extraction.txt
+run2_extraction.txt
+
+=== quote check against source ===
+R1  VERIFIED                     Students can log in with their university email
+R2  VERIFIED                     The system is fast
+R3  VERIFIED                     The system is secure
+R4  VERIFIED                     Students can register for events
+R5  VERIFIED                     Students receive a reminder before each event
+R6  VERIFIED                     Admins can add events
+R7  VERIFIED                     Admins can remove events
+R8  VERIFIED                     Login is quick (duplicate of R2)
+R9  VERIFIED                     The system handles many users
+U1  UNSOURCED (finding - keep)   The system should support multiple languages
+U2  UNSOURCED (finding - keep)   The system should be available as a mobile app on iOS and Android
